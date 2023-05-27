@@ -11,6 +11,10 @@ package com.mycompany.firstwebapp;
 public class Main {
     public static void main(String[] args) {
         System.out.println("hajde vise");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Volim te zeljo");
+            System.out.println("hajdeeee");
+        }
     }
     
 }
